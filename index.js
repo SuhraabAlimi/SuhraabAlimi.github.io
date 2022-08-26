@@ -5,19 +5,23 @@ function sussy ()
 }
 function isp_sussy ()
 {
-    location.replace("https://www.codermerlin.com/users/suhraab-alimi/Digital%20Portfolio/isp.html");
+    location.replace("isp.html");
 }
 function white ()
 {
-    location.replace('https://www.codermerlin.com/users/suhraab-alimi/Digital%20Portfolio/index.html');
+    location.replace('index.html');
 }
 function suessy ()
 {
-    location.replace('https://www.codermerlin.com/users/suhraab-alimi/Digital%20Portfolio/classes.html');
+    location.replace('classes.html');
 }
 function important ()
 {
-    location.replace('https://codermerlin.com/users/suhraab-alimi/Digital%20Portfolio/important.html')
+    location.replace('important.html')
+}
+function fingerk ()
+{
+    location.replace('finger.html')
 }
 
 

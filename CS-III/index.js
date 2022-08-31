@@ -5,23 +5,23 @@ function sussy ()
 }
 function isp_sussy ()
 {
-    location.replace("isp.html");
+    location.replace("CS-III/isp.html");
 }
 function white ()
 {
-    location.replace('index.html');
+    location.replace('../index.html');
 }
 function suessy ()
 {
-    location.replace('classes.html');
+    location.replace('CS-III/classes.html');
 }
 function important ()
 {
-    location.replace('important.html')
+    location.replace('CS-III/important.html')
 }
 function fingerk ()
 {
-    location.replace('Essays/finger.html')
+    location.replace('CS-III/Essays/finger.html')
 }
 function Gitsus()
 {

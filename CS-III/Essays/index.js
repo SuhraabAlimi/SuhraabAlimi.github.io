@@ -9,7 +9,7 @@ function isp_sussy ()
 }
 function white ()
 {
-    location.replace('../index.html');
+    location.replace('../../index.html');
 }
 function suessy ()
 {

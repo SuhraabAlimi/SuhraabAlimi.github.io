@@ -23,7 +23,10 @@ function fingerk ()
 {
     location.replace('Essays/finger.html')
 }
-
+function Gitsus()
+{
+    location.replace('https://suhraabalimi.github.io/');
+}
 
 
 

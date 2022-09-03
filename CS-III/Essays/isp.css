@@ -6,6 +6,10 @@
     border-radius: 25px;
     font-size: 30px;
 }
+.paragraphSomething {
+    text-indent: 40px;
+    text-align: left;
+}
 .hader2 {
     padding:5px;
     text-align: center;
@@ -40,13 +44,15 @@
     width: 50%;
 }
 .bofy {
+    text-indent: 10px;
     padding-up:30px;
     padding-right:10px;
     padding-left:10px;
     text-align: center;
     background:  #fff9d8;
     color: black;
-    font-size: 30px;
+    font-size: 25px;
+    font-family: "Times New Roman", Times, serif;
 }
 .haeader {
     padding: 10px;

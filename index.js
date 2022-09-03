@@ -23,6 +23,10 @@ function fingerk ()
 {
     location.replace('CS-III/Essays/finger.html')
 }
+function sustience ()
+{
+    location.replace('CS-III/Essays/AI%20Sentience.html')
+}
 function Gitsus()
 {
     location.replace('https://suhraabalimi.github.io/');

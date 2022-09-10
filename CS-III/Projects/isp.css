@@ -1,0 +1,87 @@
+.header {
+    padding: 10px;
+    text-align: center;
+    background:  #abd699;
+    color: white;
+    border-radius: 25px;
+    font-size: 30px;
+}
+.paragraphSomething {
+    text-indent: 40px;
+    text-align: left;
+}
+.hader2 {
+    padding: 25px;
+    text-align: center;
+    background: blue;
+    color: white;
+    font-size: 20px;
+}
+.hater2 {
+    padding: 9px;
+    text-align: center;
+    background: blue;
+    color: white;
+    font-size: 30px;
+    border-radius: 25px;
+    position: fixed;
+    bottom: 10px;
+    width: 98.5%;
+}
+.hader3 {
+    padding: 2px;
+    text-align: center;
+    background:#16123f;
+    color: white;
+    font-size: 10px;
+    border-radius: 25px;
+}
+.hader4 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.bofy {
+    text-indent: 10px;
+    padding-up:30px;
+    padding-right:10px;
+    padding-left:10px;
+    text-align: center;
+    background:  #fff9d8;
+    color: black;
+    font-size: 25px;
+    font-family: "Times New Roman", Times, serif;
+}
+.haeader {
+    padding: 10px;
+    text-align: center;
+    background:  #fff9d8;
+    color: white;
+    font-size: 30px;
+}
+.button
+{
+    color: white;
+    background: blue;
+    padding: 9px;
+    text-align: center;
+    border-radius: 25px;
+    border: none;
+}
+
+
+body {
+    background-color: #fff9d8;
+}
+.button:hover
+{
+    background: darkblue;
+}
+.hader7 {
+    padding: 25px;
+    text-align: center;
+    background:  #fff9d8;
+    color: white;
+    font-size: 30px;
+}

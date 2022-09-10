@@ -31,7 +31,10 @@ function Gitsus()
 {
     location.replace('https://suhraabalimi.github.io/');
 }
-
+function Optisus()
+{
+    location.replace('CS-III/Projects/Optimal%20Sort.html');
+}
 
 
 

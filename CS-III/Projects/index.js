@@ -27,7 +27,9 @@ function Gitsussy ()
 {
     location.replace("https://github.com/neeraj-gogate/Optimal-Sorting")
 }
-
-
+function spreadsheetssy()
+{
+    location.replace("https://docs.google.com/spreadsheets/d/1unyC68g51rsel25M3M_R3hD50W83XrZAkFtVoDcQIvI/edit#gid=458637415")
+}
 
 

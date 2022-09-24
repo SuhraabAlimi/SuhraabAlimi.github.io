@@ -40,16 +40,16 @@
     width: 50%;
 }
 .bofy {
-    padding-up:30px;
-    padding-right:10px;
-    padding-left:10px;
+    padding-top:30px;
+    padding-right:200px;
+    padding-left:200px;
     text-align: center;
     background:  #fff9d8;
     color: black;
     font-size: 30px;
 }
 .haeader {
-    padding: 10px;
+   padding: 10px;
     text-align: center;
     background:  #fff9d8;
     color: white;

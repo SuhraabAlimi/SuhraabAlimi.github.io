@@ -31,5 +31,9 @@ function spreadsheetssy()
 {
     location.replace("https://docs.google.com/spreadsheets/d/1unyC68g51rsel25M3M_R3hD50W83XrZAkFtVoDcQIvI/edit#gid=458637415")
 }
+function spreadsheetssy2()
+{
+    location.replace("https://docs.google.com/spreadsheets/d/1Fmqg2T2eHS22srzYoJpiXKoRcX-QhiJmF4pY88wWH9A/edit#gid=682405177")
+}
 
 

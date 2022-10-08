@@ -11,7 +11,7 @@
     text-align: left;
 }
 .hader2 {
-    padding: 25px;
+    padding: 50px;
     text-align: center;
     background: blue;
     color: white;
@@ -45,8 +45,8 @@
 .bofy {
     text-indent: 10px;
     padding-top:30px;
-    padding-right:10px;
-    padding-left:10px;
+    padding-right:40px;
+    padding-left:40px;
     text-align: center;
     background:  #fff9d8;
     color: black;
@@ -73,6 +73,7 @@
 
 body {
     background-color: #fff9d8;
+    padding: 30px;
 }
 .button:hover
 {

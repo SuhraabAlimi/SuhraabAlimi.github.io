@@ -63,3 +63,8 @@ function Optisus()
 {
     location.replace('CS-III/Projects/Optimal%20Sort.html');
 }
+
+function gayntt()
+{
+    location.replace('CS-III/Projects/Business%20Plan/index.html');
+}

@@ -1,0 +1,360 @@
+i,10/06/22 22:42:59,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1,ordered.txt,./script.sh: line 27: i: command not found 0.002
+i,10/06/22 22:42:59,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1000,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1000,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1000,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1000,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1000,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10000,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10000,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10000,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10000,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10000,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100000,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100000,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100000,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100000,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100000,ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1000,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1000,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1000,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1000,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1000,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10000,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10000,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10000,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10000,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10000,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100000,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100000,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100000,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100000,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100000,reverse-ordered.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1000,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1000,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1000,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1000,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1000,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10000,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10000,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10000,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10000,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10000,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:42:59,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100000,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:43:00,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100000,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:43:00,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100000,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:43:00,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100000,random.txt,./script.sh: line 27: i: command not found 0.001
+i,10/06/22 22:43:00,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100000,random.txt,./script.sh: line 27: i: command not found 0.001
+BubbleSort/.build/debug/Simple,10/06/22 22:43:00,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1,ordered.txt,0.006
+BubbleSort/.build/debug/Simple,10/06/22 22:43:00,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1,ordered.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 22:43:00,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1,ordered.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 22:43:00,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1,ordered.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 22:43:00,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1,ordered.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 22:43:00,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10,ordered.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 22:43:00,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10,ordered.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 22:43:00,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10,ordered.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 22:43:00,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10,ordered.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 22:43:00,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10,ordered.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 22:43:00,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100,ordered.txt,0.006
+BubbleSort/.build/debug/Simple,10/06/22 22:43:00,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100,ordered.txt,0.006
+BubbleSort/.build/debug/Simple,10/06/22 22:43:00,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100,ordered.txt,0.006
+BubbleSort/.build/debug/Simple,10/06/22 22:43:00,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100,ordered.txt,0.006
+BubbleSort/.build/debug/Simple,10/06/22 22:43:00,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100,ordered.txt,0.006
+BubbleSort/.build/debug/Simple,10/06/22 22:43:00,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1000,ordered.txt,0.079
+BubbleSort/.build/debug/Simple,10/06/22 22:43:00,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1000,ordered.txt,0.081
+BubbleSort/.build/debug/Simple,10/06/22 22:43:00,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1000,ordered.txt,0.080
+BubbleSort/.build/debug/Simple,10/06/22 22:43:00,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1000,ordered.txt,0.080
+BubbleSort/.build/debug/Simple,10/06/22 22:43:00,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1000,ordered.txt,0.078
+BubbleSort/.build/debug/Simple,10/06/22 22:43:08,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10000,ordered.txt,7.317
+BubbleSort/.build/debug/Simple,10/06/22 22:43:15,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10000,ordered.txt,7.436
+BubbleSort/.build/debug/Simple,10/06/22 22:43:20,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10000,ordered.txt,4.686
+BubbleSort/.build/debug/Simple,10/06/22 22:43:24,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10000,ordered.txt,4.114
+BubbleSort/.build/debug/Simple,10/06/22 22:43:31,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10000,ordered.txt,7.511
+BubbleSort/.build/debug/Simple,10/06/22 22:48:33,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100000,ordered.txt,301.177
+BubbleSort/.build/debug/Simple,10/06/22 22:53:33,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100000,ordered.txt,300.650
+BubbleSort/.build/debug/Simple,10/06/22 22:58:34,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100000,ordered.txt,300.581
+BubbleSort/.build/debug/Simple,10/06/22 23:03:36,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100000,ordered.txt,301.823
+BubbleSort/.build/debug/Simple,10/06/22 23:08:37,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100000,ordered.txt,301.312
+BubbleSort/.build/debug/Simple,10/06/22 23:08:37,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1,reverse-ordered.txt,0.006
+BubbleSort/.build/debug/Simple,10/06/22 23:08:37,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1,reverse-ordered.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 23:08:37,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1,reverse-ordered.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 23:08:37,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1,reverse-ordered.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 23:08:37,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1,reverse-ordered.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 23:08:37,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10,reverse-ordered.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 23:08:37,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10,reverse-ordered.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 23:08:37,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10,reverse-ordered.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 23:08:37,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10,reverse-ordered.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 23:08:37,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10,reverse-ordered.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 23:08:37,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100,reverse-ordered.txt,0.006
+BubbleSort/.build/debug/Simple,10/06/22 23:08:37,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100,reverse-ordered.txt,0.006
+BubbleSort/.build/debug/Simple,10/06/22 23:08:37,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100,reverse-ordered.txt,0.006
+BubbleSort/.build/debug/Simple,10/06/22 23:08:37,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100,reverse-ordered.txt,0.006
+BubbleSort/.build/debug/Simple,10/06/22 23:08:37,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100,reverse-ordered.txt,0.006
+BubbleSort/.build/debug/Simple,10/06/22 23:08:37,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1000,reverse-ordered.txt,0.146
+BubbleSort/.build/debug/Simple,10/06/22 23:08:37,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1000,reverse-ordered.txt,0.147
+BubbleSort/.build/debug/Simple,10/06/22 23:08:38,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1000,reverse-ordered.txt,0.149
+BubbleSort/.build/debug/Simple,10/06/22 23:08:38,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1000,reverse-ordered.txt,0.149
+BubbleSort/.build/debug/Simple,10/06/22 23:08:38,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1000,reverse-ordered.txt,0.148
+BubbleSort/.build/debug/Simple,10/06/22 23:08:51,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10000,reverse-ordered.txt,12.657
+BubbleSort/.build/debug/Simple,10/06/22 23:08:58,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10000,reverse-ordered.txt,7.733
+BubbleSort/.build/debug/Simple,10/06/22 23:09:11,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10000,reverse-ordered.txt,13.014
+BubbleSort/.build/debug/Simple,10/06/22 23:09:27,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10000,reverse-ordered.txt,15.495
+BubbleSort/.build/debug/Simple,10/06/22 23:09:38,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10000,reverse-ordered.txt,11.488
+BubbleSort/.build/debug/Simple,10/06/22 23:14:39,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100000,reverse-ordered.txt,300.434
+BubbleSort/.build/debug/Simple,10/06/22 23:19:39,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100000,reverse-ordered.txt,300.237
+BubbleSort/.build/debug/Simple,10/06/22 23:24:40,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100000,reverse-ordered.txt,300.441
+BubbleSort/.build/debug/Simple,10/06/22 23:29:48,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100000,reverse-ordered.txt,308.646
+BubbleSort/.build/debug/Simple,10/06/22 23:34:57,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100000,reverse-ordered.txt,308.737
+BubbleSort/.build/debug/Simple,10/06/22 23:34:57,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1,random.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 23:34:57,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1,random.txt,0.004
+BubbleSort/.build/debug/Simple,10/06/22 23:34:57,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1,random.txt,0.004
+BubbleSort/.build/debug/Simple,10/06/22 23:34:57,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1,random.txt,0.004
+BubbleSort/.build/debug/Simple,10/06/22 23:34:57,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1,random.txt,0.004
+BubbleSort/.build/debug/Simple,10/06/22 23:34:57,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10,random.txt,0.004
+BubbleSort/.build/debug/Simple,10/06/22 23:34:57,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10,random.txt,0.004
+BubbleSort/.build/debug/Simple,10/06/22 23:34:57,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10,random.txt,0.004
+BubbleSort/.build/debug/Simple,10/06/22 23:34:57,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10,random.txt,0.004
+BubbleSort/.build/debug/Simple,10/06/22 23:34:57,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10,random.txt,0.004
+BubbleSort/.build/debug/Simple,10/06/22 23:34:57,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100,random.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 23:34:57,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100,random.txt,0.004
+BubbleSort/.build/debug/Simple,10/06/22 23:34:57,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100,random.txt,0.004
+BubbleSort/.build/debug/Simple,10/06/22 23:34:57,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100,random.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 23:34:57,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100,random.txt,0.005
+BubbleSort/.build/debug/Simple,10/06/22 23:34:57,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1000,random.txt,0.073
+BubbleSort/.build/debug/Simple,10/06/22 23:34:57,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1000,random.txt,0.086
+BubbleSort/.build/debug/Simple,10/06/22 23:34:57,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1000,random.txt,0.066
+BubbleSort/.build/debug/Simple,10/06/22 23:34:57,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1000,random.txt,0.064
+BubbleSort/.build/debug/Simple,10/06/22 23:34:58,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1000,random.txt,0.065
+BubbleSort/.build/debug/Simple,10/06/22 23:35:04,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10000,random.txt,6.224
+BubbleSort/.build/debug/Simple,10/06/22 23:35:14,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10000,random.txt,10.452
+BubbleSort/.build/debug/Simple,10/06/22 23:35:24,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10000,random.txt,9.679
+BubbleSort/.build/debug/Simple,10/06/22 23:35:35,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10000,random.txt,10.766
+BubbleSort/.build/debug/Simple,10/06/22 23:35:47,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10000,random.txt,12.021
+BubbleSort/.build/debug/Simple,10/06/22 23:40:48,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100000,random.txt,300.941
+BubbleSort/.build/debug/Simple,10/06/22 23:45:49,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100000,random.txt,301.051
+BubbleSort/.build/debug/Simple,10/06/22 23:50:49,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100000,random.txt,300.437
+BubbleSort/.build/debug/Simple,10/06/22 23:55:50,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100000,random.txt,300.504
+BubbleSort/.build/debug/Simple,10/07/22 00:00:51,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100000,random.txt,300.844
+InsertionSort/.build/debug/Simple,10/07/22 00:00:51,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1,ordered.txt,0.006
+InsertionSort/.build/debug/Simple,10/07/22 00:00:51,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:00:51,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:00:51,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:00:51,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:00:51,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:00:51,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:00:51,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:00:51,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:00:51,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:00:51,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:00:51,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:00:51,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:00:51,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:00:51,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100,ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:00:51,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1000,ordered.txt,0.008
+InsertionSort/.build/debug/Simple,10/07/22 00:00:51,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1000,ordered.txt,0.008
+InsertionSort/.build/debug/Simple,10/07/22 00:00:51,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1000,ordered.txt,0.007
+InsertionSort/.build/debug/Simple,10/07/22 00:00:51,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1000,ordered.txt,0.008
+InsertionSort/.build/debug/Simple,10/07/22 00:00:51,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1000,ordered.txt,0.008
+InsertionSort/.build/debug/Simple,10/07/22 00:00:51,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10000,ordered.txt,0.384
+InsertionSort/.build/debug/Simple,10/07/22 00:00:52,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10000,ordered.txt,0.379
+InsertionSort/.build/debug/Simple,10/07/22 00:00:52,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10000,ordered.txt,0.378
+InsertionSort/.build/debug/Simple,10/07/22 00:00:52,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10000,ordered.txt,0.391
+InsertionSort/.build/debug/Simple,10/07/22 00:00:53,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10000,ordered.txt,0.371
+InsertionSort/.build/debug/Simple,10/07/22 00:01:22,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100000,ordered.txt,28.835
+InsertionSort/.build/debug/Simple,10/07/22 00:01:51,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100000,ordered.txt,28.825
+InsertionSort/.build/debug/Simple,10/07/22 00:02:32,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100000,ordered.txt,41.909
+InsertionSort/.build/debug/Simple,10/07/22 00:03:01,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100000,ordered.txt,28.624
+InsertionSort/.build/debug/Simple,10/07/22 00:03:29,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100000,ordered.txt,28.399
+InsertionSort/.build/debug/Simple,10/07/22 00:03:30,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:03:30,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:03:30,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:03:30,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:03:30,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:03:30,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:03:30,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:03:30,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:03:30,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:03:30,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:03:30,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:03:30,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:03:30,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:03:30,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:03:30,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100,reverse-ordered.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:03:30,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1000,reverse-ordered.txt,0.019
+InsertionSort/.build/debug/Simple,10/07/22 00:03:30,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1000,reverse-ordered.txt,0.019
+InsertionSort/.build/debug/Simple,10/07/22 00:03:30,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1000,reverse-ordered.txt,0.020
+InsertionSort/.build/debug/Simple,10/07/22 00:03:30,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1000,reverse-ordered.txt,0.019
+InsertionSort/.build/debug/Simple,10/07/22 00:03:30,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1000,reverse-ordered.txt,0.019
+InsertionSort/.build/debug/Simple,10/07/22 00:03:31,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10000,reverse-ordered.txt,1.617
+InsertionSort/.build/debug/Simple,10/07/22 00:03:33,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10000,reverse-ordered.txt,1.630
+InsertionSort/.build/debug/Simple,10/07/22 00:03:35,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10000,reverse-ordered.txt,1.709
+InsertionSort/.build/debug/Simple,10/07/22 00:03:36,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10000,reverse-ordered.txt,1.639
+InsertionSort/.build/debug/Simple,10/07/22 00:03:38,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10000,reverse-ordered.txt,1.688
+InsertionSort/.build/debug/Simple,10/07/22 00:06:49,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100000,reverse-ordered.txt,190.925
+InsertionSort/.build/debug/Simple,10/07/22 00:10:35,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100000,reverse-ordered.txt,225.974
+InsertionSort/.build/debug/Simple,10/07/22 00:13:52,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100000,reverse-ordered.txt,196.434
+InsertionSort/.build/debug/Simple,10/07/22 00:17:01,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100000,reverse-ordered.txt,189.486
+InsertionSort/.build/debug/Simple,10/07/22 00:20:37,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100000,reverse-ordered.txt,215.759
+InsertionSort/.build/debug/Simple,10/07/22 00:20:37,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1,random.txt,0.006
+InsertionSort/.build/debug/Simple,10/07/22 00:20:37,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1,random.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:20:37,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1,random.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:20:37,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1,random.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:20:37,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1,random.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:20:37,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10,random.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:20:37,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10,random.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:20:37,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10,random.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:20:37,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10,random.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:20:37,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10,random.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:20:37,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100,random.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:20:37,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100,random.txt,0.005
+InsertionSort/.build/debug/Simple,10/07/22 00:20:37,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100,random.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:20:37,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100,random.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:20:37,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100,random.txt,0.004
+InsertionSort/.build/debug/Simple,10/07/22 00:20:37,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1000,random.txt,0.015
+InsertionSort/.build/debug/Simple,10/07/22 00:20:37,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1000,random.txt,0.015
+InsertionSort/.build/debug/Simple,10/07/22 00:20:37,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1000,random.txt,0.015
+InsertionSort/.build/debug/Simple,10/07/22 00:20:37,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1000,random.txt,0.015
+InsertionSort/.build/debug/Simple,10/07/22 00:20:37,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1000,random.txt,0.015
+InsertionSort/.build/debug/Simple,10/07/22 00:20:38,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10000,random.txt,1.031
+InsertionSort/.build/debug/Simple,10/07/22 00:20:39,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10000,random.txt,1.002
+InsertionSort/.build/debug/Simple,10/07/22 00:20:40,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10000,random.txt,1.049
+InsertionSort/.build/debug/Simple,10/07/22 00:20:41,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10000,random.txt,1.021
+InsertionSort/.build/debug/Simple,10/07/22 00:20:42,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10000,random.txt,1.009
+InsertionSort/.build/debug/Simple,10/07/22 00:22:51,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100000,random.txt,128.510
+InsertionSort/.build/debug/Simple,10/07/22 00:24:45,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100000,random.txt,114.000
+InsertionSort/.build/debug/Simple,10/07/22 00:26:37,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100000,random.txt,112.123
+InsertionSort/.build/debug/Simple,10/07/22 00:28:44,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100000,random.txt,126.870
+InsertionSort/.build/debug/Simple,10/07/22 00:30:40,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100000,random.txt,116.407
+SelectionSort/.build/debug/Simple,10/07/22 00:30:40,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1,ordered.txt,0.016
+SelectionSort/.build/debug/Simple,10/07/22 00:30:40,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1,ordered.txt,0.005
+SelectionSort/.build/debug/Simple,10/07/22 00:30:40,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1,ordered.txt,0.005
+SelectionSort/.build/debug/Simple,10/07/22 00:30:40,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1,ordered.txt,0.005
+SelectionSort/.build/debug/Simple,10/07/22 00:30:40,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1,ordered.txt,0.005
+SelectionSort/.build/debug/Simple,10/07/22 00:30:40,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10,ordered.txt,0.005
+SelectionSort/.build/debug/Simple,10/07/22 00:30:40,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10,ordered.txt,0.005
+SelectionSort/.build/debug/Simple,10/07/22 00:30:40,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10,ordered.txt,0.005
+SelectionSort/.build/debug/Simple,10/07/22 00:30:40,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10,ordered.txt,0.005
+SelectionSort/.build/debug/Simple,10/07/22 00:30:40,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10,ordered.txt,0.005
+SelectionSort/.build/debug/Simple,10/07/22 00:30:40,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100,ordered.txt,0.005
+SelectionSort/.build/debug/Simple,10/07/22 00:30:40,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100,ordered.txt,0.005
+SelectionSort/.build/debug/Simple,10/07/22 00:30:40,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100,ordered.txt,0.005
+SelectionSort/.build/debug/Simple,10/07/22 00:30:40,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100,ordered.txt,0.005
+SelectionSort/.build/debug/Simple,10/07/22 00:30:40,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100,ordered.txt,0.005
+SelectionSort/.build/debug/Simple,10/07/22 00:30:41,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1000,ordered.txt,0.035
+SelectionSort/.build/debug/Simple,10/07/22 00:30:41,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1000,ordered.txt,0.035
+SelectionSort/.build/debug/Simple,10/07/22 00:30:41,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1000,ordered.txt,0.040
+SelectionSort/.build/debug/Simple,10/07/22 00:30:41,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1000,ordered.txt,0.036
+SelectionSort/.build/debug/Simple,10/07/22 00:30:41,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,1000,ordered.txt,0.035
+SelectionSort/.build/debug/Simple,10/07/22 00:30:43,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10000,ordered.txt,2.753
+SelectionSort/.build/debug/Simple,10/07/22 00:30:46,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10000,ordered.txt,2.754
+SelectionSort/.build/debug/Simple,10/07/22 00:30:49,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10000,ordered.txt,2.685
+SelectionSort/.build/debug/Simple,10/07/22 00:30:52,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10000,ordered.txt,2.768
+SelectionSort/.build/debug/Simple,10/07/22 00:30:54,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,10000,ordered.txt,1.813
+SelectionSort/.build/debug/Simple,10/07/22 00:33:55,1,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100000,ordered.txt,181.712
+SelectionSort/.build/debug/Simple,10/07/22 00:36:50,2,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100000,ordered.txt,175.177
+SelectionSort/.build/debug/Simple,10/07/22 00:39:46,3,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100000,ordered.txt,175.565
+SelectionSort/.build/debug/Simple,10/07/22 00:42:39,4,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100000,ordered.txt,173.397
+SelectionSort/.build/debug/Simple,10/07/22 00:45:33,5,main,ab2375e83d83e7f873,time swift main.swift,ordered.txt,100000,ordered.txt,173.179
+SelectionSort/.build/debug/Simple,10/07/22 00:45:33,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1,reverse-ordered.txt,0.005
+SelectionSort/.build/debug/Simple,10/07/22 00:45:33,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 00:45:33,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 00:45:33,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 00:45:33,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 00:45:33,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 00:45:33,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 00:45:33,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 00:45:33,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 00:45:33,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 00:45:33,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 00:45:33,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 00:45:33,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 00:45:33,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 00:45:33,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100,reverse-ordered.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 00:45:33,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1000,reverse-ordered.txt,0.022
+SelectionSort/.build/debug/Simple,10/07/22 00:45:33,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1000,reverse-ordered.txt,0.022
+SelectionSort/.build/debug/Simple,10/07/22 00:45:33,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1000,reverse-ordered.txt,0.022
+SelectionSort/.build/debug/Simple,10/07/22 00:45:33,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1000,reverse-ordered.txt,0.022
+SelectionSort/.build/debug/Simple,10/07/22 00:45:33,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,1000,reverse-ordered.txt,0.022
+SelectionSort/.build/debug/Simple,10/07/22 00:45:35,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10000,reverse-ordered.txt,1.778
+SelectionSort/.build/debug/Simple,10/07/22 00:45:37,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10000,reverse-ordered.txt,1.781
+SelectionSort/.build/debug/Simple,10/07/22 00:45:38,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10000,reverse-ordered.txt,1.813
+SelectionSort/.build/debug/Simple,10/07/22 00:45:40,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10000,reverse-ordered.txt,1.785
+SelectionSort/.build/debug/Simple,10/07/22 00:45:42,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,10000,reverse-ordered.txt,1.784
+SelectionSort/.build/debug/Simple,10/07/22 00:48:38,1,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100000,reverse-ordered.txt,175.566
+SelectionSort/.build/debug/Simple,10/07/22 00:51:33,2,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100000,reverse-ordered.txt,175.741
+SelectionSort/.build/debug/Simple,10/07/22 00:54:28,3,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100000,reverse-ordered.txt,175.031
+SelectionSort/.build/debug/Simple,10/07/22 00:57:23,4,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100000,reverse-ordered.txt,174.953
+SelectionSort/.build/debug/Simple,10/07/22 01:00:18,5,main,ab2375e83d83e7f873,time swift main.swift,reverse-ordered.txt,100000,reverse-ordered.txt,175.116
+SelectionSort/.build/debug/Simple,10/07/22 01:00:18,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1,random.txt,0.005
+SelectionSort/.build/debug/Simple,10/07/22 01:00:18,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1,random.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 01:00:18,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1,random.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 01:00:18,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1,random.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 01:00:18,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1,random.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 01:00:18,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10,random.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 01:00:19,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10,random.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 01:00:19,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10,random.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 01:00:19,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10,random.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 01:00:19,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10,random.txt,0.003
+SelectionSort/.build/debug/Simple,10/07/22 01:00:19,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100,random.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 01:00:19,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100,random.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 01:00:19,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100,random.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 01:00:19,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100,random.txt,0.004
+SelectionSort/.build/debug/Simple,10/07/22 01:00:19,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100,random.txt,0.005
+SelectionSort/.build/debug/Simple,10/07/22 01:00:19,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1000,random.txt,0.022
+SelectionSort/.build/debug/Simple,10/07/22 01:00:19,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1000,random.txt,0.022
+SelectionSort/.build/debug/Simple,10/07/22 01:00:19,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1000,random.txt,0.023
+SelectionSort/.build/debug/Simple,10/07/22 01:00:19,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1000,random.txt,0.022
+SelectionSort/.build/debug/Simple,10/07/22 01:00:19,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,1000,random.txt,0.022
+SelectionSort/.build/debug/Simple,10/07/22 01:00:21,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10000,random.txt,1.760
+SelectionSort/.build/debug/Simple,10/07/22 01:00:22,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10000,random.txt,1.736
+SelectionSort/.build/debug/Simple,10/07/22 01:00:24,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10000,random.txt,1.741
+SelectionSort/.build/debug/Simple,10/07/22 01:00:26,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10000,random.txt,1.741
+SelectionSort/.build/debug/Simple,10/07/22 01:00:28,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,10000,random.txt,1.739
+SelectionSort/.build/debug/Simple,10/07/22 01:03:22,1,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100000,random.txt,174.081
+SelectionSort/.build/debug/Simple,10/07/22 01:06:15,2,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100000,random.txt,173.067
+SelectionSort/.build/debug/Simple,10/07/22 01:09:08,3,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100000,random.txt,173.254
+SelectionSort/.build/debug/Simple,10/07/22 01:12:01,4,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100000,random.txt,173.100
+SelectionSort/.build/debug/Simple,10/07/22 01:14:54,5,main,ab2375e83d83e7f873,time swift main.swift,random.txt,100000,random.txt,172.653

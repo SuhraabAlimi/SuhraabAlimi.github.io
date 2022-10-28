@@ -68,3 +68,7 @@ function gayntt()
 {
     location.replace('CS-III/Projects/Business%20Plan/index.html');
 }
+function clashRoyale()
+{
+    location.replace('CS-III/Projects/Business%20Plan/considered.html');
+}

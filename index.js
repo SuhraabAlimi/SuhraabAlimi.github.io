@@ -72,3 +72,7 @@ function clashRoyale()
 {
     location.replace('CS-III/Projects/Business%20Plan/considered.html');
 }
+function gregorSamsa()
+{
+    location.replace('CS-III/Projects/ISP/index.html');
+}

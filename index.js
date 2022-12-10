@@ -76,3 +76,9 @@ function gregorSamsa()
 {
     location.replace('CS-III/Projects/ISP/index.html');
 }
+function readIfStupid()
+{
+    location.replace('CS-III/Essays/Decision%20Making.html');
+}
+
+

@@ -80,5 +80,8 @@ function readIfStupid()
 {
     location.replace('CS-III/Essays/Decision%20Making.html');
 }
-
+function jourNal()
+{
+    location.replace('CS-III/Projects/ISP/Journal.html');
+}
 

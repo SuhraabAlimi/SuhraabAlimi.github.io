@@ -43,3 +43,7 @@ function samsa()
 {
     location.replace("https://www.codermerlin.com/users/kevin-sun/Digital%20Portfolio/CS-III/Projects/ISP/index.html")
 }
+function github()
+{
+    location.replace("https://www.github.com/CSAllenISD/2023-ISP-TowerDefense")
+}

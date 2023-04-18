@@ -76,3 +76,11 @@ function sig12()
 {
     location.replace("https://github.com/CSAllenISD/2023-ISP-TowerDefense/commit/5afccf4fb1ec76ccf65c7a9eb2ccdeba919b7e20")
 }
+function iss1()
+{
+    location.replace("github.com/CSAllenISD/2023-ISP-TowerDefense/issues/36")
+}
+function iss2()
+{
+    location.replace("github.com/CSAllenISD/2023-ISP-TowerDefense/issues/37")
+}

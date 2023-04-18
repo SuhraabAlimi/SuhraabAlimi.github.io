@@ -78,9 +78,9 @@ function sig12()
 }
 function iss1()
 {
-    location.replace("github.com/CSAllenISD/2023-ISP-TowerDefense/issues/36")
+    location.replace("https://github.com/CSAllenISD/2023-ISP-TowerDefense/issues/36")
 }
 function iss2()
 {
-    location.replace("github.com/CSAllenISD/2023-ISP-TowerDefense/issues/37")
+    location.replace("https://github.com/CSAllenISD/2023-ISP-TowerDefense/issues/37")
 }

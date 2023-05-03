@@ -95,4 +95,13 @@ function iss4()
 function gand()
 {
     location.replace("https://docs.google.com/spreadsheets/d/1pNFw_VZ8yFxrXnHSXnGfca-olTBeFsIRpI33ICz96KU/edit#gid=0");
+
+}
+function iss5()
+{
+    location.replace("https://github.com/CSAllenISD/2023-ISP-TowerDefense/issues/41")
+}
+function iss6()
+{
+    location.replace("https://github.com/CSAllenISD/2023-ISP-TowerDefense/issues/42")
 }
